@@ -1,0 +1,29 @@
+<resources>
+    <!--region: NewNoteActivity-->
+    <string name="app_name">My Application</string>
+    <string name="btnNewNote">Add a new note</string>
+    <string name="btnListNotes">See all notes</string>
+    <string name="tvAddNewNote">CREATE A NEW NOTE</string>
+    <string name="tvCategory">Choose a category</string>
+    <string name="tvNoteName">Add a title to your note (required)</string>
+    <string name="tvLocation">Add a location</string>
+    <string name="tvContent">Add the information (required)</string>
+    <string name="etNotenameHint">Add a title</string>
+    <string name="etLocationHint">Add a location related to your note</string>
+    <string name="etContentHint">Add the information</string>
+    <string name="btnSave">Save note</string>
+    <!--end New Note Activity region-->
+
+    <!--region ListNotesActivity-->
+    <string name="etSearch">Search</string>
+    <string name="tvAllNotes">All Notes</string>
+    <string name="tvSearchResult">Result</string>
+    <string name="btnSearch">Ok</string>
+    <!--end List Notes Activity-->
+
+    <string name="btnReturn">Return</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnDelete">Delete Note</string>
+
+    <string name="btnOK">OK</string>
+</resources>
